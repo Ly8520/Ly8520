@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Ly8520
-- 👀 I’m interested in coding, chess, and other stuff
-- 🌱 I’m currently learning java
+- 👀 I’m interested in learning AI/ML, computer contests, chess, and other stuff !
+- 🌱 Java, Python, learning HTML/CSS + Django + SQL for web development ! 
 
 <!---
 Ly8520/Ly8520 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
